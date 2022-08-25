@@ -4,6 +4,18 @@
 
 This file is a brief introduction about Transformer Model and the application in finance domain.
 
+### What we have got
+
+The prediction of the Moving Average (10days)
+
+![image](https://user-images.githubusercontent.com/110284601/186769095-4b65b504-04f3-4480-bd0e-3f56d1f21df9.png)
+
+The loss function with the epochs.
+
+![image](https://user-images.githubusercontent.com/110284601/186769133-cba6633e-7172-4375-8ab5-a768ece35b8a.png)
+
+
+
 ## 1. Introduction to Transformer Model
 The fundamental thesis of Transformer Model: <Attention is all you need> 
 Link: https://arxiv.org/pdf/1706.03762.pdf
