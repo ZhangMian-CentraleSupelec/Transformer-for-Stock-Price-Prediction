@@ -1,6 +1,6 @@
 # Transformer-for-Stock-Price-Prediction and Golden-Cross Strategy
--ZHANG MIAN \
--CentraleSupélec \
+- ZHANG MIAN
+- CentraleSupélec
 
 This file is a brief introduction about Transformer Model and the application in finance domain.
 
